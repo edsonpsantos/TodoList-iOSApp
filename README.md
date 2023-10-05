@@ -1,4 +1,4 @@
-# MyHabits-iOS-App
+# To-Do List iOS App
 
 ## 📱 About this project
 This project refers to a simple iOS mobile application to show a type of folder organization using MVVM architecture and other features
