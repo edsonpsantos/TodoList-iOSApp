@@ -20,10 +20,7 @@ The repository contains all code based on an MVVM architecture with Swift and Sw
   
    - The ViewModel contains the business logic for the app, connecting the View to the data (Models)!
   
-* Good practices
+* Good practices 🚀
 
 
-## Important note:
-🚀 This app is under development, so new features are being created daily.
-
-🙏🏽 Thanks for your attention ! 
+🙏🏽 Thanks ! 
