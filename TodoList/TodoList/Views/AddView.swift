@@ -16,7 +16,7 @@ struct AddView: View {
     @State var alertTitle: String = ""
     @State var showAlert: Bool = false
     
-    let backgroundColor = Color(#colorLiteral(red: 0.921431005, green: 0.9214526415, blue: 0.9214410186, alpha: 1))
+    let backgroundColor = Color(UIColor.secondarySystemBackground)
     var body: some View {
         ScrollView{
             VStack {
@@ -68,9 +68,20 @@ struct AddView: View {
     }
 }
 
+//Dark Mode
 #Preview {
     NavigationView{
         AddView()
     }
     .environmentObject(ListViewModel())
+    .preferredColorScheme(/*@START_MENU_TOKEN@*/.dark/*@END_MENU_TOKEN@*/)
+}
+
+// Ligth Mode
+#Preview {
+    NavigationView{
+        AddView()
+    }
+    .environmentObject(ListViewModel())
+    .preferredColorScheme(.light)
 }
