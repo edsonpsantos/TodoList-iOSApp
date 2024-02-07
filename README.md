@@ -22,5 +22,17 @@ The repository contains all code based on an MVVM architecture with Swift and Sw
   
 * Good practices 🚀
 
+  
+##  📱 App screens:
+![Splash Screen](https://github.com/edsonpsantos/images/blob/main/TodoList/SplashScreen.png)
+![](https://github.com/edsonpsantos/images/blob/main/TodoList/FirstScreen.png)
+![](https://github.com/edsonpsantos/images/blob/main/TodoList/CreateItem.png)
+![](https://github.com/edsonpsantos/images/blob/main/TodoList/TodoScreen.png)
+![](https://github.com/edsonpsantos/images/blob/main/TodoList/CreateItem.png)
+![](https://github.com/edsonpsantos/images/blob/main/TodoList/TodoDelete.png)
+![](https://github.com/edsonpsantos/images/blob/main/TodoList/TodoDone.png)
+
+![](https://github.com/edsonpsantos/images/blob/main/TodoList/TodoList.mov)
+
 
 🙏🏽 Thanks ! 
