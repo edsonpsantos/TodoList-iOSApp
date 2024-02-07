@@ -24,21 +24,15 @@ The repository contains all code based on an MVVM architecture with Swift and Sw
 
   
 ##  📱 App screens:
-<div style="width: 60%; height: 60%">
-  
-![img|298x698](https://github.com/edsonpsantos/images/blob/main/TodoList/SplashScreen.png)
-  
-</div>
 
-
-![](https://github.com/edsonpsantos/images/blob/main/TodoList/FirstScreen.png)
-![](https://github.com/edsonpsantos/images/blob/main/TodoList/CreateItem.png)
-![](https://github.com/edsonpsantos/images/blob/main/TodoList/TodoScreen.png)
-![](https://github.com/edsonpsantos/images/blob/main/TodoList/CreateItem.png)
-![](https://github.com/edsonpsantos/images/blob/main/TodoList/TodoDelete.png)
-![](https://github.com/edsonpsantos/images/blob/main/TodoList/TodoDone.png)
+![img|298x698](https://github.com/edsonpsantos/images/blob/main/TodoList/Splash.png)
+![](https://github.com/edsonpsantos/images/blob/main/TodoList/Home.png)
+![](https://github.com/edsonpsantos/images/blob/main/TodoList/AddItem.png)
+![](https://github.com/edsonpsantos/images/blob/main/TodoList/List.png)
+![](https://github.com/edsonpsantos/images/blob/main/TodoList/Done.png)
+![](https://github.com/edsonpsantos/images/blob/main/TodoList/Delete.png)
 
 ![](https://github.com/edsonpsantos/images/blob/main/TodoList/TodoList.mov)
 
 
-🙏🏽 Thanks ! 
+🙏🏽 Thanks! 
