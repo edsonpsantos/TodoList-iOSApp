@@ -3,9 +3,9 @@
 ## 📱 About this project
 This project refers to a simple iOS mobile application to show a type of folder organization using MVVM architecture and other features
 
-I will build a to-do list from scratch using SwiftUI with a MVVM architecture pattern. I will also incorporate UserDefaults into the application to save and persist data between sessions, user experience, animations. 
+I will build a to-do list from scratch using SwiftUI with an MVVM architecture pattern. I will also incorporate UserDefaults into the application to save and persist data between sessions, user experience, and animations. 
 
-I will also adapt the app for iPad, Landscape, Dark Mode and a specific App Icon and a Launch screen to SwiftUI.
+I will also adapt the app for iPad, Landscape, Dark Mode a specific App Icon, and a Launch screen to SwiftUI.
 
 The repository contains all code based on an MVVM architecture with Swift and SwiftUI.
 
@@ -24,7 +24,7 @@ The repository contains all code based on an MVVM architecture with Swift and Sw
 
   
 ##  📱 App screens:
-![img|320x271](https://github.com/edsonpsantos/images/blob/main/TodoList/SplashScreen.png)
+![img|298x698](https://github.com/edsonpsantos/images/blob/main/TodoList/SplashScreen.png)
 
 ![](https://github.com/edsonpsantos/images/blob/main/TodoList/FirstScreen.png)
 ![](https://github.com/edsonpsantos/images/blob/main/TodoList/CreateItem.png)
