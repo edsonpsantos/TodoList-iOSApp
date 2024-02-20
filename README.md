@@ -25,7 +25,7 @@ The repository contains all code based on an MVVM architecture with Swift and Sw
   
 ##  📱 App screens:
 
-![img|298x698](https://github.com/edsonpsantos/images/blob/main/TodoList/Splash.png)
+
 ![](https://github.com/edsonpsantos/images/blob/main/TodoList/Home.png)
 ![](https://github.com/edsonpsantos/images/blob/main/TodoList/AddItem.png)
 ![](https://github.com/edsonpsantos/images/blob/main/TodoList/List.png)
@@ -33,7 +33,11 @@ The repository contains all code based on an MVVM architecture with Swift and Sw
 ![](https://github.com/edsonpsantos/images/blob/main/TodoList/Done.png)
 ![](https://github.com/edsonpsantos/images/blob/main/TodoList/Delete.png)
 
-![](https://github.com/edsonpsantos/images/blob/main/TodoList/TodoList.mov)
+
+
+https://github.com/edsonpsantos/TodoList-iOSApp/assets/24628289/e6ed7930-cfc6-4e0b-bcc6-28dec9b18294
+
+
 
 
 🙏🏽 Thanks! 
